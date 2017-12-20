@@ -37,12 +37,12 @@ h3 {
 
 .headline {
 	text-shadow: none;
-  width: 155px;
+  width: 220px;
   margin: auto;
   font-size: 50px;
   font-weight: 200;
   border-bottom: 1px solid #FFF;
-	letter-spacing: -3px;
+	letter-spacing: -2px;
 }
 
 .footer-txt {
